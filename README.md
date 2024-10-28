@@ -11,12 +11,3 @@
 
 Hi there! I'm a developer passionate about building robust applications.
 
-
-## 📊 Skills & Technologies
-- **Languages**: 
-  - **Python** (for Frappe and transcoding)
-  - **PHP** (for WordPress development)
-  - **JavaScript** (for WordPress and web development)
-  - **HTML/CSS** (for frontend development)
-- **Frameworks**: Frappe, WordPress
-
