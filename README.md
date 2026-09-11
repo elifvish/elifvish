@@ -1,13 +1,1 @@
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=elifvish)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elifvish&show_icons=true&theme=radical)
-
-## 🏆 GitHub Profile Trophy
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=elifvish)
-
-
-Hi there! I'm a developer passionate about building robust applications.
-
+<img width="1536" height="1024" alt="i-see-you" src="https://github.com/user-attachments/assets/da6e58c1-cb50-463c-afef-24f7f77b507d" />
